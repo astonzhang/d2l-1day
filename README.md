@@ -1,4 +1,4 @@
-# Dive inti Deep Learning in 1 Day
+# Dive into Deep Learning in 1 Day
 
 Last updated：|today|
 
