@@ -5,8 +5,6 @@ Last updated：|today|
 ## Information
 
 - Speaker： [Alex Smola](https://alex.smola.org/)
-- Date： [TBA]
-- Location：[TBA]
 
 ## Overview
 
