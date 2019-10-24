@@ -22,6 +22,21 @@ day. The course consists of four segments of 90 minutes each.
 1. Best practices (GPUs, Parallelization, Fine Tuning, Transfer Learning)
 1. Recurrent Neural Networks for natural language (RNN, LSTM, GRU)
 
+## Prerequisites
+
+You should have some basic knowledge of
+[Linear Algebra](http://numpy.d2l.ai/chapter_appendix/math.html),
+[Statistics](http://numpy.d2l.ai/chapter_crashcourse/probability.html), and
+[Python](https://learnpythonthehardway.org/) (here's
+[another book](https://www.diveinto.org/python3/table-of-contents.html) to learn
+Python). Moreover, you should have some experience with
+[Jupyter](https://jupyter.org/) notebooks, or with
+[SageMaker](http://aws.amazon.com/sagemaker) notebooks. To run things
+on (multiple) GPUs you need access to a GPU server, such as the
+[P2](https://aws.amazon.com/ec2/instance-types/p2/),
+[G3](https://aws.amazon.com/ec2/instance-types/g3/), or
+[P3](https://aws.amazon.com/ec2/instance-types/p3/)
+instances.
 
 
 ## Syllabus
@@ -37,13 +52,13 @@ day. The course consists of four segments of 90 minutes each.
 | Time | Topics |
 | --- | --- |
 | 8:00---9:00 | Setup clinic for laptops |
-| 9:00---10:30 | [Part 1: Deep learning basic](#id5) |
+| 9:00---10:30 | [Part 1: Deep learning basic](#part-1-deep-learning-basic) |
 | 10:30---11:00 | Coffee break |
-| 11:00---12:30 | [Part 2: Convolutional neural networks](#id6) |
+| 11:00---12:30 | [Part 2: Convolutional neural networks](#part-2-convolutional-neural-networks) |
 | 12:30---2:00 | Lunch break |
-| 2:00---3:30 | [Part 3: Performance](#id7) |
+| 2:00---3:30 | [Part 3: Performance](#part-3-performance) |
 | 3:30---4:00 | Coffee break |
-| 4:00---5:30 | [Part 4: Recurrent neural networks](#id8) |
+| 4:00---5:30 | [Part 4: Recurrent neural networks](#part-4-recurrent-neural-networks) |
 
 
 ### Part 1: Deep Learning Basic
