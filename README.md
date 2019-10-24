@@ -25,8 +25,9 @@ day. The course consists of four segments of 90 minutes each.
 ## Prerequisites
 
 You should have some basic knowledge of
-[Linear Algebra](http://numpy.d2l.ai/chapter_appendix/math.html),
-[Statistics](http://numpy.d2l.ai/chapter_crashcourse/probability.html), and
+[Linear Algebra](http://numpy.d2l.ai/chapter_preliminaries/scalar-tensor.html),
+[Calculus](http://numpy.d2l.ai/chapter_preliminaries/calculus.html),
+[Probability](http://numpy.d2l.ai/chapter_preliminaries/probability.html), and
 [Python](https://learnpythonthehardway.org/) (here's
 [another book](https://www.diveinto.org/python3/table-of-contents.html) to learn
 Python). Moreover, you should have some experience with
