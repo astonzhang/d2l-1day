@@ -26,10 +26,6 @@ day. The course consists of four segments of 90 minutes each.
 
 ## Syllabus
 
-
-
-## Syllabus
-
 - This course relies heavily on the
   [Dive into Deep Learning](http://numpy.d2l.ai) book. There's a lot more
   detail in the book (notebooks, examples, math, applications).
