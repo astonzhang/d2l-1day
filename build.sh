@@ -6,3 +6,4 @@ d2lbook build html
 # FIXME
 rm -rf _build/html/slides
 cp -r slides _build/html/
+mv _build/html/README.html _build/html/index.html
