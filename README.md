@@ -4,7 +4,9 @@ Last updated：|today|
 
 ## Information
 
-- Speaker： [Alex Smola](https://alex.smola.org/)
+- Speaker： Rachel Hu, Zhi Zhang
+- Date: 11/21/2019
+- Location: LAX10
 
 ## Overview
 
@@ -50,19 +52,19 @@ instances.
 
 | Time | Topics |
 | --- | --- |
-| 8:00---9:00 | Setup clinic for laptops |
-| 9:00---10:30 | [Part 1: Deep learning basic](#part-1-deep-learning-basic) |
-| 10:30---11:00 | Coffee break |
+| 9:00---9:20 | Setup clinic for laptops |
+| 9:20---10:40 | [Part 1: Deep learning basic](#part-1-deep-learning-basic) |
+| 10:40---11:00 | Coffee break |
 | 11:00---12:30 | [Part 2: Convolutional neural networks](#part-2-convolutional-neural-networks) |
-| 12:30---2:00 | Lunch break |
-| 2:00---3:30 | [Part 3: Performance](#part-3-performance) |
-| 3:30---4:00 | Coffee break |
-| 4:00---5:30 | [Part 4: Recurrent neural networks](#part-4-recurrent-neural-networks) |
+| 12:30---1:30 | Lunch break |
+| 13:30---15:00 | [Part 3: Perf](#part-3-performance) |
+| 15:00---15:30 | Coffee break |
+| 15:30---17:00 | [Part 4: Recurrent neural networks](#part-4-recurrent-neural-networks) |
 
 
 ### Part 1: Deep Learning Basic
 
-**Slides**: [[keynote]](slides/Part-1.key), [[pdf]](slides/Part-1.pdf)
+**Slides**: [[keynote]](slides/DL_basics.key), [[pdf]](slides/DL_basics.pdf)
 
 **Notebooks**:
 
@@ -78,7 +80,7 @@ instances.
 
 ### Part 2: Convolutional neural networks
 
-**Slides**: [[keynote]](slides/Part-2.key), [[pdf]](slides/Part-2.pdf)
+**Slides**: [[keynote]](slides/CNN.key), [[pdf]](slides/CNN.pdf)
 
 **Notebooks**:
 
@@ -93,7 +95,7 @@ instances.
 
 ### Part 3: Performance
 
-**Slides**: [[keynote]](slides/Part-3.key), [[pdf]](slides/Part-3.pdf)
+**Slides**: [[keynote]](slides/Performance.key), [[pdf]](slides/Performance.pdf)
 
 **Notebooks**:
 
@@ -105,7 +107,7 @@ instances.
 
 ### Part 4: Recurrent neural networks
 
-**Slides**: [[keynote]](slides/Part-4.key), [[pdf]](slides/Part-4.pdf)
+**Slides**: [[keynote]](slides/RNN.key), [[pdf]](slides/RNN.pdf)
 
 **Notebooks**:
 
@@ -115,3 +117,28 @@ instances.
 1. Gated Recurrent Units (GRU)                               [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-4/4-gru.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-4/4-gru.ipynb#/)
 1. Long Short Term Memory (LSTM)                             [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-4/5-lstm.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-4/5-lstm.ipynb#/)
 
+
+# Build Mini Amazon-Go in 1 Day Hackathon
+
+[Amazon Go](https://www.amazon.com/b?ie=UTF8&node=16008589011) is a new kind of store with no checkout required. With the "Just Walk Out Shopping" experience, simply use the Amazon Go app to enter the store, take any of the products, and go! No lines, no checkout. A little later, you will receive a receipt on the app with a charge to your Amazon account. This checkout-free shopping experience is made possible by the same types of technologies used in self-driving cars: computer vision, sensor fusion, and deep learning. The technology automatically detects when products are taken from or returned to the shelves and keeps track of them in a virtual cart. When the customers done shopping, they can just leave the store without checking out. At the moment they walk out of the door, the technology will capture the photos, detect the products, automatically make the transactions, and send the cutomers the receipts.
+
+Now, do you want to be involved in deep learning and contribute to the bleeding edge of technology of computer vision? In this Hackathon, we will empower you to team up and build a "Mini Amazon Go" from scratch. Complimentary food and drink are served (just don't dine and dash).
+
+## Hackathon Information
+
+- Instructor: Zhi Zhang, Rachel Hu
+- Date: 11/22/2019
+- Location: LAX10
+
+## Hackathon Prerequisites
+
+A laptop(with modern browser) is sufficient to access all resources in order to take part in the hackathon!
+
+
+## Contents
+
+Overview of the hackathon can be viewed prior to this event: [[keynote]](slides/MiniAmazonGo.key), [[pdf]](slides/MiniAmazonGo.pdf)
+
+## Awards
+
+Winners will be granted with a phone tool icon!
