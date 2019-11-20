@@ -4,8 +4,8 @@ Last updated：|today|
 
 ## Information
 
-- Speaker： Rachel Hu, Zhi Zhang
-- Date: 11/21/2019
+- Speakers: Rachel Hu, Zhi Zhang
+- Date & Time: 11/21/2019, 9AM - 5PM
 - Location: LAX10
 
 ## Overview
@@ -57,7 +57,7 @@ instances.
 | 10:40---11:00 | Coffee break |
 | 11:00---12:30 | [Part 2: Convolutional neural networks](#part-2-convolutional-neural-networks) |
 | 12:30---1:30 | Lunch break |
-| 13:30---15:00 | [Part 3: Perf](#part-3-performance) |
+| 13:30---15:00 | [Part 3: Best practices](#part-3-performance) |
 | 15:00---15:30 | Coffee break |
 | 15:30---17:00 | [Part 4: Recurrent neural networks](#part-4-recurrent-neural-networks) |
 
@@ -78,7 +78,7 @@ instances.
 1. Implementation of Multilayer Perceptron from Scratch  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/8-mlp-scratch.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/8-mlp-scratch.ipynb#/)
 1. Concise Implementation of Multilayer Perceptron  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/9-mlp-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/9-mlp-gluon.ipynb#/)
 
-### Part 2: Convolutional neural networks
+### Part 2: Convolutional Neural Networks
 
 **Slides**: [[keynote]](slides/CNN.key), [[pdf]](slides/CNN.pdf)
 
@@ -93,7 +93,7 @@ instances.
 1. Inception Networks (GoogLeNet)                [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-googlenet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-googlenet.ipynb#/)
 1. Residual Networks (ResNet)                    [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/8-resnet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/8-resnet.ipynb#/)
 
-### Part 3: Performance
+### Part 3: Best Practices
 
 **Slides**: [[keynote]](slides/Performance.key), [[pdf]](slides/Performance.pdf)
 
@@ -105,7 +105,7 @@ instances.
 1. Fine Tuning                                        [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/4-fine-tuning.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/4-fine-tuning.ipynb#/)
 
 
-### Part 4: Recurrent neural networks
+### Part 4: Recurrent Neural Networks
 
 **Slides**: [[keynote]](slides/RNN.key), [[pdf]](slides/RNN.pdf)
 
@@ -127,7 +127,7 @@ Now, do you want to be involved in deep learning and contribute to the bleeding 
 ## Hackathon Information
 
 - Instructor: Zhi Zhang, Rachel Hu
-- Date: 11/22/2019
+- Date: 11/22/2019, 1 - 5PM
 - Location: LAX10
 
 ## Hackathon Prerequisites
@@ -141,4 +141,4 @@ Overview of the hackathon can be viewed prior to this event: [[keynote]](slides/
 
 ## Awards
 
-Winners will be granted with a phone tool icon!
+Participants will be granted with a [phone tool icon](https://phonetool.amazon.com/awards/96139/award_icons/108886). The winners will win a full set of "mini Amazon Go" hardwares, so you can play with it any time.
